@@ -1,2 +1,2 @@
 # philo
-Repositorio del proyectoPhilosophers de la escuela 42
+Repositorio del proyecto Philosophers de la escuela 42
