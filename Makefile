@@ -6,7 +6,7 @@ SRCS = main.c \
 
 OBJS = $(SRCS:.c=.o)
 
-CFLAGS = -Wall -Werror -Wextra
+CFLAGS = -Wall -Werror -Wextra -lpthread
 
 CC = cc
 

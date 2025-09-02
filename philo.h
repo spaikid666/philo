@@ -8,6 +8,7 @@
 # include <fcntl.h>
 # include <sys/wait.h>
 # include <sys/resource.h>
+# include <pthread.h>
 
 /* Instructions */
 void	instructions (void);
